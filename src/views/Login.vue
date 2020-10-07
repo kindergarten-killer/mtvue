@@ -1,6 +1,6 @@
 <template>
     <div>
-        woshi1denglu1
+        <h1>登录路由</h1>
     </div>
 </template>
 

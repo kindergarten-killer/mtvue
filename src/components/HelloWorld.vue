@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <router-link :to= "{path:'/login'}">登录</router-link>
-    组件
+    <h1>header组件</h1>
   </div>
 </template>
 
